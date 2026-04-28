@@ -11,7 +11,7 @@ From ML-powered security tools to blockchain platforms and AI applications, I lo
 
 ---
 
-## 🌐 Connect With Me  
+### 🌐 Connect With Me  
 📧 varunsnair29@gmail.com  
 💼 LinkedIn: [https://www.linkedin.com/in/varun-nair-39055b332/]<br> 
 🐙 GitHub: [https://github.com/Varun2976]<br>  
@@ -25,4 +25,4 @@ From ML-powered security tools to blockchain platforms and AI applications, I lo
 </p>
 
 ---
-### Eat.Sleep.Code.
+## Eat.Sleep.Code.
