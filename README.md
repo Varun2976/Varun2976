@@ -1,24 +1,13 @@
 # Hi there 👋, I'm Varun Nair  
 
 ### 🚀 B.Tech IT Student | Full-Stack Developer | MERN Stack Developer | Competitive Programmer | Hackathon Builder  
-
-```cpp
-while(alive) {
-    code();
-    build();
-    compete();
-    innovate();
-}
-```
 ---
 
 ## 💫 About Me  
 
-I’m Varun Nair, a B.Tech Information Technology student at KJ Somaiya School of Engineering with a strong passion for building technology that solves meaningful real-world problems. My journey in tech is driven by curiosity, innovation, and a constant desire to push beyond conventional learning through hands-on development, competitive programming, and hackathons. With a CGPA of 9.6 and active involvement in coding platforms like CodeChef and Codeforces, I continuously work on sharpening both my problem-solving and development skills.  
+I’m Varun Nair, a B.Tech Information Technology student at KJ Somaiya School of Engineering with a deep passion for technology, problem-solving, and innovation. My journey in tech is fueled by curiosity and a drive to build impactful solutions that go beyond theory. With strong interests in full-stack development, artificial intelligence, cybersecurity, and blockchain, I actively work on projects that solve real-world challenges while continuously sharpening my skills through competitive programming, hackathons, and hands-on development.  
 
-I enjoy exploring the intersection of software development, artificial intelligence, cybersecurity, and blockchain to create impactful solutions. From developing Rapid3, an ML-powered phishing detection platform, to building blockchain-based supply chain systems and AI vocal coaching applications, I focus on creating projects that are practical, scalable, and socially relevant. My experience in hackathons such as SIH, HackX, AgriTech, and ICPC has strengthened my ability to innovate under pressure, collaborate effectively, and transform ideas into functional products.  
-
-Beyond coding, I see technology as a tool to improve systems, simplify lives, and create opportunities. Whether it’s designing digital workflow platforms, cybersecurity tools, or smart automation systems, I strive to combine technical knowledge with creativity to build solutions that matter. As I continue growing, my goal is to become a versatile engineer capable of contributing to cutting-edge advancements while constantly learning, building, and evolving. 
+From building ML-powered phishing detection systems and blockchain-based supply chain platforms to AI-driven applications, I enjoy transforming ideas into scalable products that create value. Hackathons, coding contests, and collaborative projects have shaped my ability to think critically, adapt quickly, and innovate under pressure. I aim to keep learning, building, and pushing boundaries as I grow into a developer who not only writes code but creates technology that makes a difference.
 
 ---
 
