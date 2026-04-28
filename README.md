@@ -54,8 +54,8 @@ Digitized approval workflows for students, reducing processing time by 70%.
 
 ## 🌐 Connect With Me  
 📧 varunsnair29@gmail.com  
-💼 LinkedIn: [https://www.linkedin.com/in/varun-nair-39055b332/] 
-🐙 GitHub: [https://github.com/Varun2976] 
+💼 LinkedIn: [https://www.linkedin.com/in/varun-nair-39055b332/]<br> 
+🐙 GitHub: [https://github.com/Varun2976]<br>  
 🏁 CodeChef: varun2976 | Codeforces: Varun2976  
 
 ---
