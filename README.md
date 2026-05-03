@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Varun2976/Varun2976/blob/main/banner.jpeg" alt="Varun Nair Banner" width="100%" />
+</p>
+
 # Hi there 👋, I'm Varun Nair  
 
 ### 🚀 B.Tech IT Student | Full-Stack Developer | MERN Stack Developer | Competitive Programmer | Hackathon Builder  
