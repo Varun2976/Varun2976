@@ -2,6 +2,13 @@
   <img src="https://github.com/Varun2976/Varun2976/blob/main/banner.png" alt="Varun Nair Banner" width="100%" />
 </p>
 
+## 🛠️ Tech Stack  
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,nodejs,express,postgres,mongodb,git,github,firebase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity" />
+</p>
+---
 # Hi there 👋, I'm Varun Nair  
 
 ### 🚀 B.Tech IT Student | Full-Stack Developer | MERN Stack Developer | Competitive Programmer | Hackathon Builder  
@@ -13,14 +20,6 @@ I’m Varun Nair, a B.Tech Information Technology student at KJ Somaiya School o
 
 From ML-powered security tools to blockchain platforms and AI applications, I love turning ideas into impactful products. Through coding contests and hands-on development, I continuously sharpen my skills, push my limits, and work toward becoming a developer who builds technology that truly makes a difference.
 
----
-## 🛠️ Tech Stack  
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,nodejs,express,postgres,mongodb,git,github,firebase" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity" />
-</p>
- 
 ---
 ### 🌐 Connect With Me  
 📧 varunsnair29@gmail.com  
