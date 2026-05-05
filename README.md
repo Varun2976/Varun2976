@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Varun2976/Varun2976/blob/main/banner.png" alt="Varun Nair Banner" width="100%" />
+  <img src="https://github.com/Varun2976/Varun2976/blob/main/ban.png" alt="Varun Nair Banner" width="100%" />
 </p>
 
 ## 🛠️ Tech Stack  
