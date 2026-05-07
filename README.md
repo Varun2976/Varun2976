@@ -12,7 +12,7 @@
 
 # Hi there 👋, I'm Varun Nair  
 
-### 🚀 B.Tech IT Student | Full-Stack Developer | MERN Stack Developer | Competitive Programmer | Hackathon Builder  
+### B.Tech IT Student | Full-Stack Developer | MERN Stack Developer | Competitive Programmer | Hackathon Builder  
 ---
 
 ## 💫 About Me  
