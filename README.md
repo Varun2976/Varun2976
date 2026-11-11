@@ -5,7 +5,7 @@
 ## 🛠️ Tech Stack  
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,nodejs,express,postgres,mongodb,git,github,firebase" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,html,css,js,react,nodejs,express,postgres,mongodb,git,github,firebase,rubyonrails" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=solidity" />
 </p>
 ---
